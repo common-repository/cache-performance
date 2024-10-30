@@ -1,0 +1,279 @@
+.cg-container .postbox, .cg-container .stuffbox {
+
+    margin-bottom: 0;
+
+}
+.cg-panel > a {
+    color: hsl(47, 98%, 60%);
+    text-decoration: none;
+}
+.wp-core-ui .cg-container .cg-panel .button-primary {
+    display: block;
+    font-size: 16px;
+    font-weight: 600 !important;
+    margin: 15px auto 1px !important;
+    max-width: 137px;
+    padding: 7px 0 !important;
+    text-align: center;
+    text-transform: uppercase;
+}
+.cg-btn-dark {
+    background: hsl(47, 95%, 60%) none repeat scroll 0 0;
+    border-radius: 2px;
+    color: hsl(0, 0%, 0%);
+    font-size: 13px;
+    margin: 10px auto;
+    padding: 7px;
+}
+
+.cg-panel {
+   background: hsl(220, 60%, 34%) none repeat scroll 0 0;
+    color: hsl(0, 0%, 100%);
+font-size: 14px;
+    font-weight: 600;
+    margin-top: 50px;
+    padding: 16px;
+    text-align: center;
+}
+.cg-container table tr td fieldset input[type="checkbox"] {
+    display: block;
+    float: left;
+    margin: 0 7px;
+    width: 10px;
+}
+.cg-container table tr td fieldset p {
+    float: left;
+    font-size: 12px;
+    margin: 0 auto;
+}
+.cg-container .postbox .inside, .cg-container .stuffbox .inside {
+
+    padding: 0;
+}
+.cg-container .nav-tab {
+
+    background: hsl(220, 60%, 34%) none repeat scroll 0 0;
+    border: medium none;
+    border-radius: 2px 2px 0 0;
+    color: hsl(0, 0%, 100%);
+    display: block;
+    float: left;
+    font-size: 14px;
+    line-height: 24px;
+    margin: 0 auto;
+       padding: 10px 25px;
+}
+.cg-container .nav-tab.nav-tab-active {
+    background: hsl(13, 92%, 56%) none repeat scroll 0 0;
+}
+.wrap .cg-container h2.nav-tab-wrapper, .cg-container h1.nav-tab-wrapper, .cg-container h3.nav-tab-wrapper {
+    border-bottom: medium none;
+
+}
+.cg-container .postbox {
+    background: hsl(0, 0%, 93%) none repeat scroll 0 0;
+    border: medium none;
+    box-shadow: none;
+    min-width: auto;
+}
+.cg-container #poststuff {
+     min-width: auto;
+    padding-top: 0;
+}
+.cg-stars {
+    float: right;
+    height:19px;
+    background: hsla(0, 0%, 0%, 0) url("../images/stars.jpg") repeat scroll 0 0;
+    width: 100px;
+}
+.cg-container .postbox .hndle a {
+    background: hsl(13, 92%, 56%) none repeat scroll 0 0;
+    border-radius: 1px;
+    color: hsl(0, 0%, 100%);
+    padding: 0 10px 3px;
+    text-decoration: none;
+}
+.cg-container table tr td input, .cg-container table tr td select, .cg-container table tr td textarea {
+       border-radius: 1px;
+    box-shadow: none;
+    font-size: 12px;
+    padding: 10px 18px;
+    width: 100%;
+}
+.cg-container .postbox .hndle, .cg-container .stuffbox .hndle {
+
+    background: hsl(0, 0%, 98%) none repeat scroll 0 0;
+    border-bottom: medium none;
+    color: #1010010;
+}
+.cg-panel {
+    margin-bottom: 10px;
+}
+    .form label{width:100%;display: inline-block;}
+    .button-primary{margin-top:30px !important;}
+    .check_options{font-weight: bold;}
+
+
+    ul.tabs{
+            margin: 0px;
+            padding: 0px;
+            list-style: none;
+        }
+
+ul.tabs li {
+
+    border-radius: 2px 2px 0 0;
+    color: hsl(0, 0%, 100%);
+    cursor: pointer;
+    display: inline-block;
+    float: left;
+    margin: 0 1px;
+
+}
+
+
+.wp-core-ui .cg-container .button-primary {
+    background: hsl(13, 92%, 56%) none repeat scroll 0 0;
+    border-bottom: 5px solid hsl(13, 80%, 49%);
+    border-left: medium none !important;
+    border-right: medium none !important;
+    border-top: medium none !important;
+    box-shadow: none;
+       margin: 15px;
+    color: hsl(0, 0%, 100%);
+    height: auto;
+    padding: 5px 30px;
+    text-decoration: none;
+    text-shadow: unset;
+}
+
+table tbody tr td {
+    color: hsl(0, 0%, 0%);
+    font-size: 12px;
+    font-weight: 600;
+    padding: 5px;
+}
+ul.tabs li.current {
+    background: hsl(13, 92%, 56%) none repeat scroll 0 0;
+    color: hsl(0, 0%, 100%);
+}
+
+        .tab-content{
+            display: none;
+            background: #eee;
+            clear: both;
+            padding: 15px;
+        }
+
+        .tab-content.current{
+            display: inherit;
+        }
+        .wrap {
+    margin: 10px 20px 0 2px;
+    max-width: 900px;
+}
+        .wrap header {
+    background: hsl(220, 60%, 34%) none repeat scroll 0 0;
+    color: hsl(0, 0%, 100%);
+    padding: 15px;
+}
+.wrap header small {
+    background: hsl(13, 92%, 56%) none repeat scroll 0 0;
+    border-radius: 1px;
+    font-size: 13px;
+    padding: 2px 13px 3px;
+}
+.cg-pane-head {
+    text-align: right;
+}
+.wrap header h2 {
+      color: hsl(0, 0%, 92%);
+    font-size: 20px;
+       margin: 10px auto;
+    font-weight: 600;
+}
+.cg-pane-head h2 {
+    color: hsl(0, 0%, 100%);
+    line-height: 22px;
+    text-align: center;
+}
+.wp-core-ui .wrap .notice.is-dismissible {
+    color: hsl(0, 0%, 6%);
+
+}
+.cg-tab-wrap {
+    float: left;
+    padding: 0 15px;
+    width: 57%;
+}
+.cg-pane-small {
+    float: left;
+    padding: 0 15px;
+    width: 36%;
+}
+.cg-container {
+      background: hsl(0, 0%, 100%) none repeat scroll 0 0;
+    border: 1px solid hsl(0, 0%, 85%);
+    box-shadow: 0 0 2px 1px hsla(0, 0%, 0%, 0.1);
+    padding: 15px 0 ;
+}
+
+.cg-col-right {
+   float: right;
+    margin: 10px auto;
+    text-align: right;
+    width: 40%;
+}
+.cg-col-left {
+    float: left;
+    width: 60%;
+}
+.form-table tr td:first-child {
+    width: 140px;
+}
+.cg-col-right a {
+    background: hsl(13, 92%, 56%) none repeat scroll 0 0;
+    border-radius: 1px;
+    color: hsl(0, 0%, 100%);
+    font-size: 12px;
+    padding: 1px 10px 3px;
+    text-decoration: none;
+}
+.cg-col-right > p {
+    margin: 5px auto;
+}
+.cg-pane-head img {
+      border: 2px solid hsl(0, 0%, 98%);
+    width: 100%;
+}
+.cg-pane-head > a {
+    text-decoration: none;
+}
+
+.cg-panel h3 {
+    color: hsl(0, 0%, 100%);
+    font-size: 20px;
+    text-align: center;
+}
+
+.cg-panel.cg-featured-panel.cg-stye-1 {
+    background: hsl(220, 60%, 34%) none repeat scroll 0 0;
+}
+
+@media(max-width:768px){
+
+.cg-tab-wrap {
+
+    width: 96%;
+}
+
+.cg-col-left, .cg-col-right, .cg-pane-small  {
+
+    width: 100%;
+}
+.cg-col-right a {
+
+    display: block;
+
+}
+}
